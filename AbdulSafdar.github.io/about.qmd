@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+Hi, I am Abdul and I am a first year data science student at UBC.
